@@ -24,6 +24,35 @@ Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa 
 - Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.
 - Di akhir kelas, siswa dapat memahami AWS Cloud dengan segala jenis layanan, infrastruktur global, hingga harganya.
 
+
+### Peralatan Belajar
+Spesifikasi minimal perangkat
+Kelas ini membutuhkan spesifikasi perangkat seperti berikut:
+
+RAM
+- [ ]
+2 GB (Rekomendasi 4 GB)
+
+Layar
+- [ ]
+1366 x 768 (Rekomendasi Full HD 1920 x 1080)
+
+Sistem Operasi
+- [ ]
+Windows, Linux, MacOS
+
+Prosesor
+- [ ]
+Intel Celeron (Rekomendasi Core i3 ke atas)
+
+Tools
+- [ ]
+
+Kelas ini membutuhkan beberapa tools berikut:
+- [ ]
+Web Browser (Google Chrome atau Mozilla Firefox)
+
+
 ### Silabus
 Materi yang akan Anda pelajari pada kelas ini
 
