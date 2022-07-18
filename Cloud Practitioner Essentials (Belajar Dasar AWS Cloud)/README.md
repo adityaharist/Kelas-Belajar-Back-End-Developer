@@ -119,7 +119,6 @@ Materi yang akan Anda pelajari pada kelas ini
 > Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS. `75 menit`
 - [ ]
 Pengantar Jaringan
-- [ ]
 `10 Menit`
 - [ ]
 Konektivitas ke AWS
