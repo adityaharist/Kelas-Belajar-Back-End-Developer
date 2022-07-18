@@ -1,14 +1,18 @@
 # Bahan Ajar Menjadi Back End Developer
 
+```
 - [ ] Disusun oleh: Aditya Harist
 - [ ] Level: Pemula 
 - [ ] Estimasi: 45 jam
 - [ ] Teknologi:Web|Cloud Computing
+```
 
 ### Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.
 
 ### Apa yang akan Anda dapatkan:
+```
 Sertifikat
+```
 Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
 
 ## Code Review
