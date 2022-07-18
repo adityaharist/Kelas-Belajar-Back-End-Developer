@@ -27,26 +27,24 @@ Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa 
 ### Silabus
 Materi yang akan Anda pelajari pada kelas ini
 
-Persiapan Belajar
+1. Persiapan Belajar
 Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
+ - 30 menit
 
-5
-30 menit
+- [ ] Persetujuan Hak Cipta
+ - 2 Menit
 
-Persetujuan Hak Cipta
-2 Menit
+- [ ] Mekanisme Belajar
+ - 8 Menit
 
-Mekanisme Belajar
-8 Menit
+- [ ] Forum Diskusi
+ - 5 Menit
 
-Forum Diskusi
-5 Menit
+- [ ] Glosarium
+ - 10 Menit
 
-Glosarium
-10 Menit
-
-Daftar Referensi
-5 Menit
+- [ ] Daftar Referensi
+ - 5 Menit
 
 
 Pengantar ke Amazon Web Services
@@ -77,39 +75,6 @@ Knowledge Check : Pengantar ke Amazon Web Services
 
 10 Menit
 
-
-
-eskripsi Kelas
-Testimoni
-FAQ
-Deskripsi
-Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa tahun terakhir. Salah satu platform cloud terdepan dan paling komprehensif adalah Amazon Web Services (AWS). Jutaan pelanggan telah menggunakan AWS, termasuk tiga unicorn asal Indonesia seperti Traveloka, Tokopedia, dan Gojek. Maka dari itu, kuasailah ilmu komputasi cloud agar Anda dapat memenuhi kebutuhan industri yang kian bertumbuh dan mulailah langkah perjalanan cloud Anda dengan mempelajari kelas ini. 
-
-Pemahaman tentang cloud merupakan skill wajib di era industri saat ini.
-Seiring perkembangan teknologi yang kian pesat, kebutuhan seorang yang ahli dalam komputasi cloud semakin berperan untuk kemajuan perusahaan.
-Komputasi cloud tidak memerlukan komputer/laptop berspesifikasi tinggi. Jadi, tak perlu khawatir jika Anda tak memiliki perangkat yang mumpuni.
-Belajar komputasi cloud tidak memerlukan pengalaman yang cakap dalam bidang IT, siapa pun dapat mempelajarinya.
-Dengan komputasi cloud, Anda bisa berkenalan dengan berbagai bidang IT, seperti DevOps, Machine Learning, Software Development, dan lain sebagainya.
-
-
-Target dan Sasaran Siswa
-Kelas ditujukan bagi pemula yang ingin memulai karirnya di bidang cloud computing dengan mengacu pada standar kompetensi internasional milik AWS. 
-Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.
-Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya. 
-Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.
-Di akhir kelas, siswa dapat memahami AWS Cloud dengan segala jenis layanan, infrastruktur global, hingga harganya.
-Sembunyikan 
-Learning Path
-Kelas ini merupakan langkah ke-satu Anda untuk menjadi Back-End Developer.
-
-Langkah setelahnya 
-
-Langkah 2
-Belajar Dasar Pemrograman JavaScript
-45 Jam
-4,85
-Level Dasar
-Peralatan Belajar
 
 Spesifikasi minimal perangkat:
 
@@ -147,73 +112,6 @@ Evaluasi pembelajaran : Ujian akhir kelas
 Sertifikat kompetensi
 Lihat semua metode ajar
 
-Kontributor
-
-2
-Curriculum Developer yang membangun kelas ini:
-
-Faisal Susanto
-Faisal Susanto
-
-Solution Architect
-
-Fikri Helmi Setiawan
-Fikri Helmi Setiawan
-
-Curriculum Developer at Dicoding Indonesia
-
-Reviewer
-
-3
-Code Reviewer yang akan me-review tugas dan kode Anda:
-
-Fikri Helmi Setiawan
-Dimas Maulana Dwi Saputra
-Faisal Susanto
-Lihat semua kontributor dan reviewer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Testimoni Siswa
-Ribuan siswa sukses belajar di Dicoding Academy. Apa kata mereka? Berikut adalah testimoni asli mereka.
-
-Andrian Adam
-Andrian Adam
- Bank Panin
- Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
-    
-Materinya sangat berbobot dan sangat baik. Namun tetap bisa dicerna bahkan oleh yang bukan memiliki basic IT sekali pun. Apresiasi untuk penyusun materi.
-Patrick A. Manusiwa
-Patrick A. Manusiwa
- Badan Pusat Statistik Provinsi Maluku
- Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
-    
-Materi yang disampaikan di kelas ini dikemas dengan baik dan terstruktur, membuat kita paham akan dasar dari Amazon Web Service beserta layanan yang disediakan. Ini merupakan fondasi yang baik bagi pemula yang ingin menjadi cloud developer. Terima kasih Dicoding.
-Baca selengkapnya
-Lihat semua testimoni
-Punya pertanyaan seputar kelas ini?
-Berikut adalah beberapa pertanyaan yang paling sering ditanyakan.
-
-Bagaimana cara memasukkan token Academy?
-Aturan membuat pertanyaan di forum diskusi kelas
-Bagaimana cara mencetak sertifikat kelulusan kelas?
-Lihat semua FAQ
-Silabus
-Lanjut Belajar
-Silabus
-Materi yang akan Anda pelajari pada kelas ini.
 
 Persiapan Belajar
 Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
