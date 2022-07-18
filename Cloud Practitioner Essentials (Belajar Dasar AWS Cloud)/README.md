@@ -29,10 +29,10 @@ Materi yang akan Anda pelajari pada kelas ini
 
 1. Persiapan Belajar
 Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
- - 30 menit
+ <sup>30 menit</sup>
 
 - [ ] Persetujuan Hak Cipta
- - 2 Menit
+ <sup>2 Menit</sup>
 
 - [ ] Mekanisme Belajar
  - 8 Menit
