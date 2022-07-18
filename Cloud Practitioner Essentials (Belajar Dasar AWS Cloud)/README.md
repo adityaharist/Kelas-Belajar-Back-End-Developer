@@ -28,14 +28,14 @@ Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa 
 Materi yang akan Anda pelajari pada kelas ini
 
 1. Persiapan Belajar
-Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
- <sup>30 menit</sup>
+> Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
+> 30 menit
 
 - [ ] Persetujuan Hak Cipta
- <sup>2 Menit</sup>
+> 2 Menit
 
 - [ ] Mekanisme Belajar
- - 8 Menit
+> 8 Menit
 
 - [ ] Forum Diskusi
  - 5 Menit
