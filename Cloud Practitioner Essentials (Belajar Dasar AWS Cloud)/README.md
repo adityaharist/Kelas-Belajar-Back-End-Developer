@@ -28,49 +28,35 @@ Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa 
 Materi yang akan Anda pelajari pada kelas ini
 
 1. Persiapan Belajar
-> Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
-> 30 menit
+> Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi. `30 menit`
 
-- [ ] Persetujuan Hak Cipta
-> 2 Menit
+- [ ] Persetujuan Hak Cipta `2 Menit`
 
-- [ ] Mekanisme Belajar
-> 8 Menit
+- [ ] Mekanisme Belajar `8 Menit`
 
-- [ ] Forum Diskusi
-> 5 Menit
+- [ ] Forum Diskusi `5 Menit`
 
-- [ ] Glosarium
-> 10 Menit
+- [ ] Glosarium `10 Menit`
 
-- [ ] Daftar Referensi
-> 5 Menit
+- [ ] Daftar Referensi `5 Menit`
 
 
 2. Pengantar ke Amazon Web Services
-> Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go.
-45 menit
-- [ ] Pengantar ke Amazon Web Services
-10 Menit
+> Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go. `45 menit`
+- [ ] Pengantar ke Amazon Web Services `10 Menit`
 
-Pengantar
-5 Menit
+Pengantar `5 Menit`
 
-Komputasi Cloud
-5 Menit
+Komputasi Cloud `5 Menit`
 
-Model Penerapan untuk Komputasi Cloud
-5 Menit
+Model Penerapan untuk Komputasi Cloud `5 Menit`
 
-Manfaat dari Komputasi Cloud
-5 Menit
+Manfaat dari Komputasi Cloud `5 Menit`
 
-Ikhtisar
-5 Menit
+Ikhtisar `5 Menit`
 
 Knowledge Check : Pengantar ke Amazon Web Services
-
-10 Menit
+`10 Menit`
 
 
 3. Komputasi di Cloud
