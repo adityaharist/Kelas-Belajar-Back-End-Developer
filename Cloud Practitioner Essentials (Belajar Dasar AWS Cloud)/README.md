@@ -138,229 +138,173 @@ Knowledge Check : Penyimpanan dan Database
 
 
 7. Keamanan
-Mendeskripsikan materi shared responsibility model, multi-factor authentication, AWS IAM, dasar-dasar kebijakan keamanan; AWS Organizations, compliance dengan AWS, dan layanan keamanan utama AWS yang mudah.
-
-8
-1
-90 menit
+> Mendeskripsikan materi shared responsibility model, multi-factor authentication, AWS IAM, dasar-dasar kebijakan keamanan; AWS Organizations, compliance dengan AWS, dan layanan keamanan utama AWS yang mudah.
+`90 menit`
+- [ ]
 Pengantar Keamanan
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Shared Responsibility Model
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Perizinan dan Hak Akses Pengguna
-
-15 Menit
-
+`15 Menit`
+- [ ]
 AWS Organizations
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Compliance (Kepatuhan)
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Serangan Denial-of-Service
-
-15 Menit
-
+`15 Menit`
+- [ ]
 Layanan Keamanan Tambahan
-
-15 Menit
-
+`15 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Keamanan
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 8. Pemantauan dan Analitik
-Menelaah pendekatan untuk memantau lingkungan AWS Anda, manfaat Amazon CloudWatch, AWS CloudTrail, dan AWS Trusted Advisor.
-
-5
-1
-45 menit
+> Menelaah pendekatan untuk memantau lingkungan AWS Anda, manfaat Amazon CloudWatch, AWS CloudTrail, dan AWS Trusted Advisor.
+`45 menit`
+- [ ]
 Pengantar Pemantauan dan Analitik
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Amazon CloudWatch
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS CloudTrail
-
-10 Menit
-
+`10 Menit`
+- [ ]
 AWS Trusted Advisor
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Pemantauan dan Analitik
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 9. Harga dan Dukungan
-Menguraikan materi AWS Free Tier, AWS Organizations dan consolidated billing, AWS Budgets, AWS Cost Explorer, AWS Pricing Calculator, membedakan setiap AWS Support Plan, dan terakhir AWS Marketplace.
-
-10
-1
-75 menit
+> Menguraikan materi AWS Free Tier, AWS Organizations dan consolidated billing, AWS Budgets, AWS Cost Explorer, AWS Pricing Calculator, membedakan setiap AWS Support Plan, dan terakhir AWS Marketplace.
+`75 menit`
+- [ ]
 Pengantar Harga dan Dukungan
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Free Tier
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Konsep Harga AWS
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Billing Dashboard
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Consolidated Billing
-
-10 Menit
-
+`10 Menit`
+- [ ]
 AWS Budgets
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Cost Explorer
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Support Plans
-
-10 Menit
-
+`10 Menit`
+- [ ]
 AWS Marketplace
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Harga dan Dukungan
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 10. Migrasi dan Inovasi
-Mengkaji materi terkait AWS CAF, enam faktor utama dari strategi migrasi cloud, manfaat beragam solusi migrasi data, dan cakupan luas dari solusi inovatif yang ditawarkan AWS.
-
-6
-1
-40 menit
+> Mengkaji materi terkait AWS CAF, enam faktor utama dari strategi migrasi cloud, manfaat beragam solusi migrasi data, dan cakupan luas dari solusi inovatif yang ditawarkan AWS.
+`40 menit`
+- [ ]
 Pengantar Migrasi dan Inovasi
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Cloud Adoption Framework (AWS CAF)
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Strategi Migrasi
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Snow Family
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Inovasi dengan AWS
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Migrasi dan Inovasi
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 11. Perjalanan Cloud
-Menjelaskan lima pilar dari AWS Well-Architected Framework dan enam manfaat dari komputasi cloud.
-
-4
-1
-40 menit
+> Menjelaskan lima pilar dari AWS Well-Architected Framework dan enam manfaat dari komputasi cloud.
+`40 menit`
+- [ ]
 Pengantar Perjalanan Cloud
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Well-Architected Framework
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Manfaat dari AWS Cloud
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Perjalanan Cloud
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 12. Dasar-Dasar AWS Certified Cloud Practitioner
-Mengulik sumber daya untuk persiapan ujian AWS Certified Cloud Practitioner sekaligus manfaat menjadi seseorang yang bersertifikat AWS.
-
-3
-1
-90 menit
+> Mengulik sumber daya untuk persiapan ujian AWS Certified Cloud Practitioner sekaligus manfaat menjadi seseorang yang bersertifikat AWS.
+`90 menit`
+- [ ]
 Pengantar Dasar-Dasar AWS Certified Cloud Practitioner
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Detail Ujian
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Strategi Menghadapi Ujian
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Simulasi Ujian AWS Certified Cloud Practitioner
-
-60 Menit
-
+`60 Menit`
+<br>
 
 
 13. Penutup
-Ujian akhir yang harus ditempuh untuk lulus dari kelas ini.
-
-1
-40 menit
+> Ujian akhir yang harus ditempuh untuk lulus dari kelas ini.
+`40 menit`
+- [ ]
 Ujian Akhir
-
-40 Menit
+`40 Menit`
 
 
 
