@@ -54,6 +54,16 @@ Tools
 Web Browser (Google Chrome atau Mozilla Firefox)
 <br>
 
+### Metode Ajar
+- Online teaching-paced Learning Total jam belajar : 45 jam
+- Rekomendasi waktu belajar : 10 jam per minggu (selesai dalam 32 hari)
+- Siswa dibimbing secara intensif serta face to face melalui online meeting berapa lama waktu yang akan digunakan untuk belajar materi kelas ini selama masih aktif terdaftar pada kelas • Fasilitas Pengajaran
+- Materi bacaan elektronik: Materi akan disajikan dalam bentuk teks dan bacaan
+- Forum diskusi: Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya dan berdiskusi
+- Evaluasi pembelajaran: Submission (Proyek Akhir) Bookshelf API berupa membuat Back-End dari aplikasi catatan yang memiliki fungsi Create, Read, Update, dan Delete.
+-Sertifikat Kompetensi
+<br>
+
 
 ### Silabus
 Materi yang akan Anda pelajari pada kelas ini
