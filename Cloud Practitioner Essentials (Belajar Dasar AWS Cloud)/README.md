@@ -65,7 +65,7 @@ Materi yang akan Anda pelajari pada kelas ini
 <br>
 
 4. Infrastruktur Global dan Keandalan
-- [ ] Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS. `45 menit`
+> Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS. `45 menit`
 - [ ] Pengantar Infrastruktur Global dan Keandalan `5 Menit`
 - [ ] Infrastruktur Global AWS `10 Menit`
 - [ ] Edge Locations `5 Menit`
@@ -75,84 +75,66 @@ Materi yang akan Anda pelajari pada kelas ini
 <br>
 
 5. Jaringan
-> Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS.
-`75 menit`
+> Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS. `75 menit`
+- [ ]
 Pengantar Jaringan
-
+- [ ]
 `10 Menit`
-
+- [ ]
 Konektivitas ke AWS
-
 `15 Menit`
-
+- [ ]
 Subnet dan Network Access Control List
-
 `20 Menit`
-
+- [ ]
 Jaringan Global
-
 `15 Menit`
-
+- [ ]
 Ikhtisar
-
 `5 Menit`
-
+- [ ]
 Knowledge Check : Jaringan
-
 `10 Menit`
-
+<br>
 
 
 6. Penyimpanan dan Database
-Mengulas konsep dasar penyimpanan dan database, manfaat Amazon EBS, Amazon S3, Amazon EFS, variasi solusi penyimpanan, Amazon DynamoDB, dan terakhir ragam layanan database.
-
-10
-1
-75 menit
+> Mengulas konsep dasar penyimpanan dan database, manfaat Amazon EBS, Amazon S3, Amazon EFS, variasi solusi penyimpanan, Amazon DynamoDB, dan terakhir ragam layanan database.
+`75 menit`
+- [ ]
 Pengantar Penyimpanan dan Database
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Instance Store dan Amazon Elastic Block Store (Amazon EBS)
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Amazon Simple Storage Service (Amazon S3)
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Amazon Elastic File System (Amazon EFS)
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Amazon Relational Database Service (Amazon RDS)
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Amazon DynamoDB
-
-10 Menit
-
+`10 Menit`
+- [ ]
 Amazon Redshift
-
-5 Menit
-
+`5 Menit`
+- [ ]
 AWS Database Migration Service
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Layanan Database Tambahan
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Ikhtisar
-
-5 Menit
-
+`5 Menit`
+- [ ]
 Knowledge Check : Penyimpanan dan Database
-
-10 Menit
-
+`10 Menit`
+<br>
 
 
 7. Keamanan
