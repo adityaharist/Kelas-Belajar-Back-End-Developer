@@ -11,29 +11,33 @@
 
 ### Apa yang akan Anda dapatkan:
 ```
-Sertifikat
+ Sertifikat
 ```
 Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
 
-## Code Review
+```
+ Code Review
+```
 Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
 
-## Sertifikat
-Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
-
-## Code Review
-Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
-
-## Forum Diskusi
+```
+Forum Diskusi
+```
 Diskusikan materi belajar dengan mentor dan siswa lainnya
 
-## Modul Tutorial
+```
+Modul Tutorial
+```
 Materi bacaan elektronik disajikan dengan bahasa yang mudah dipahami.
 
-## Submission
+```
+Submission
+```
 Uji kemampuan teknis Anda dengan mengerjakan tugas submission.
 
-## Kode Interaktif
+```
+Kode Interaktif
+```
 Modul belajar dalam bentuk video, disertai dengan latihan untuk menguji pemahaman.
 
 ## Deskripsi
