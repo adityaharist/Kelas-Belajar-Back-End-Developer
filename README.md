@@ -1,46 +1,46 @@
 # Bahan Ajar Menjadi Back End Developer
 
-```
 - [ ] Disusun oleh: Aditya Harist
 - [ ] Level: Pemula 
 - [ ] Estimasi: 45 jam
 - [ ] Teknologi:Web|Cloud Computing
-```
 
 ### Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.
 
 ### Apa yang akan Anda dapatkan:
-```
- Sertifikat
-```
+Sertifikat
 Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
 
-```
- Code Review
-```
+## Code Review
 Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
 
-```
-Forum Diskusi
-```
+## Sertifikat
+Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
+
+## Code Review
+Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
+
+## Forum Diskusi
 Diskusikan materi belajar dengan mentor dan siswa lainnya
 
-```
-Modul Tutorial
-```
+## Modul Tutorial
 Materi bacaan elektronik disajikan dengan bahasa yang mudah dipahami.
 
-```
-Submission
-```
+## Submission
 Uji kemampuan teknis Anda dengan mengerjakan tugas submission.
 
-```
-Kode Interaktif
-```
+## Kode Interaktif
 Modul belajar dalam bentuk video, disertai dengan latihan untuk menguji pemahaman.
 
-## Deskripsi
+## Deskripsi Kelas
+Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa tahun terakhir. Salah satu platform cloud terdepan dan paling komprehensif adalah Amazon Web Services (AWS). Jutaan pelanggan telah menggunakan AWS, termasuk tiga unicorn asal Indonesia seperti Traveloka, Tokopedia, dan Gojek. Maka dari itu, kuasailah ilmu komputasi cloud agar Anda dapat memenuhi kebutuhan industri yang kian bertumbuh dan mulailah langkah perjalanan cloud Anda dengan mempelajari kelas ini. 
+
+Pemahaman tentang cloud merupakan skill wajib di era industri saat ini.
+Seiring perkembangan teknologi yang kian pesat, kebutuhan seorang yang ahli dalam komputasi cloud semakin berperan untuk kemajuan perusahaan.
+Komputasi cloud tidak memerlukan komputer/laptop berspesifikasi tinggi. Jadi, tak perlu khawatir jika Anda tak memiliki perangkat yang mumpuni.
+Belajar komputasi cloud tidak memerlukan pengalaman yang cakap dalam bidang IT, siapa pun dapat mempelajarinya.
+Dengan komputasi cloud, Anda bisa berkenalan dengan berbagai bidang IT, seperti DevOps, Machine Learning, Software Development, dan lain sebagainya.
+
 Back-End Developer merupakan developer yang memiliki peran sangat penting, karena Back-End Developer menjadi faktor vital dalam membangun sebuah sistem aplikasi meskipun perannya tidak terlihat secara langsung oleh pengguna. Seorang Back-End Developer harus mampu membangun layanan yang mampu mendukung aplikasi Front-End dapat berfungsi dengan baik. Kelas ini membahas tuntas kemampuan dasar untuk menjadi seorang Back-End Developer dengan membangun RESTful API menggunakan teknologi Node.js yang populer.
 Setiap aplikasi membutuhkan peran Back-End agar dapat berfungsi dengan baik.
 RESTful API merupakan Web Service yang banyak digunakan industri saat ini.
