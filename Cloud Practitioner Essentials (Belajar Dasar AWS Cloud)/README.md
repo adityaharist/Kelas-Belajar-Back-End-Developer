@@ -38,22 +38,19 @@ Materi yang akan Anda pelajari pada kelas ini
 > 8 Menit
 
 - [ ] Forum Diskusi
- - 5 Menit
+> 5 Menit
 
 - [ ] Glosarium
- - 10 Menit
+> 10 Menit
 
 - [ ] Daftar Referensi
- - 5 Menit
+> 5 Menit
 
 
-Pengantar ke Amazon Web Services
-Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go.
-
-6
-1
+2. Pengantar ke Amazon Web Services
+> Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go.
 45 menit
-Pengantar ke Amazon Web Services
+- [ ] Pengantar ke Amazon Web Services
 10 Menit
 
 Pengantar
@@ -76,92 +73,7 @@ Knowledge Check : Pengantar ke Amazon Web Services
 10 Menit
 
 
-Spesifikasi minimal perangkat:
-
-Prosesor
-
-Intel Celeron (Rekomendasi Core i3 ke atas)
-
-Tools yang dibutuhkan untuk belajar:
-
-Web Browser (Google Chrome atau Mozilla Firefox)
-
-Lihat semua peralatan belajar
-
-
-
-
-
-
-
-
-
-
-
-
-Metode Ajar
-
-Online - Self-paced Learning
-Total jam belajar : 13 jam
-Rekomendasi waktu belajar : 10 jam per minggu (selesai dalam 10 hari) 
-Anda tentukan sendiri berapa lama waktu yang akan digunakan untuk belajar materi kelas ini selama masih aktif terdaftar pada kelas
-Fasilitas Pengajaran
-Materi bacaan elektronik : Materi akan disajikan dalam bentuk teks dan bacaan
-Forum diskusi : Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya dan berdiskusi
-Evaluasi pembelajaran : Ujian akhir kelas
-Sertifikat kompetensi
-Lihat semua metode ajar
-
-
-Persiapan Belajar
-Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi.
-
-5
-30 menit
-Persetujuan Hak Cipta
-2 Menit
-
-Mekanisme Belajar
-8 Menit
-
-Forum Diskusi
-5 Menit
-
-Glosarium
-10 Menit
-
-Daftar Referensi
-5 Menit
-
-Pengantar ke Amazon Web Services
-Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go.
-
-6
-1
-45 menit
-Pengantar ke Amazon Web Services
-10 Menit
-
-Pengantar
-5 Menit
-
-Komputasi Cloud
-5 Menit
-
-Model Penerapan untuk Komputasi Cloud
-5 Menit
-
-Manfaat dari Komputasi Cloud
-5 Menit
-
-Ikhtisar
-5 Menit
-
-Knowledge Check : Pengantar ke Amazon Web Services
-
-10 Menit
-
-Komputasi di Cloud
+3. Komputasi di Cloud
 Membahas materi komputasi di cloud, seperti Amazon EC2, Elastic Load Balancing, perbedaan Amazon SNS dan Amazon SQS, serta layanan komputasi lain di AWS.
 
 8
@@ -203,8 +115,36 @@ Knowledge Check : Komputasi di Cloud
 
 10 Menit
 
+4. Infrastruktur Global dan Keandalan
+Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS.
+45 menit
 
-Jaringan
+Pengantar Infrastruktur Global dan Keandalan
+
+5 Menit
+
+Infrastruktur Global AWS
+
+10 Menit
+
+Edge Locations
+
+5 Menit
+
+Cara Menyediakan Sumber Daya AWS
+
+10 Menit
+
+Ikhtisar
+
+5 Menit
+
+Knowledge Check : Infrastruktur Global dan Keandalan
+
+10 Menit
+
+
+5. Jaringan
 Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS.
 
 5
@@ -236,7 +176,7 @@ Knowledge Check : Jaringan
 
 
 
-Penyimpanan dan Database
+6. Penyimpanan dan Database
 Mengulas konsep dasar penyimpanan dan database, manfaat Amazon EBS, Amazon S3, Amazon EFS, variasi solusi penyimpanan, Amazon DynamoDB, dan terakhir ragam layanan database.
 
 10
@@ -288,7 +228,7 @@ Knowledge Check : Penyimpanan dan Database
 
 
 
-Keamanan
+7. Keamanan
 Mendeskripsikan materi shared responsibility model, multi-factor authentication, AWS IAM, dasar-dasar kebijakan keamanan; AWS Organizations, compliance dengan AWS, dan layanan keamanan utama AWS yang mudah.
 
 8
@@ -332,7 +272,7 @@ Knowledge Check : Keamanan
 
 
 
-Pemantauan dan Analitik
+8. Pemantauan dan Analitik
 Menelaah pendekatan untuk memantau lingkungan AWS Anda, manfaat Amazon CloudWatch, AWS CloudTrail, dan AWS Trusted Advisor.
 
 5
@@ -364,7 +304,7 @@ Knowledge Check : Pemantauan dan Analitik
 
 
 
-Harga dan Dukungan
+9. Harga dan Dukungan
 Menguraikan materi AWS Free Tier, AWS Organizations dan consolidated billing, AWS Budgets, AWS Cost Explorer, AWS Pricing Calculator, membedakan setiap AWS Support Plan, dan terakhir AWS Marketplace.
 
 10
@@ -416,7 +356,7 @@ Knowledge Check : Harga dan Dukungan
 
 
 
-Migrasi dan Inovasi
+10. Migrasi dan Inovasi
 Mengkaji materi terkait AWS CAF, enam faktor utama dari strategi migrasi cloud, manfaat beragam solusi migrasi data, dan cakupan luas dari solusi inovatif yang ditawarkan AWS.
 
 6
@@ -452,7 +392,7 @@ Knowledge Check : Migrasi dan Inovasi
 
 
 
-Perjalanan Cloud
+11. Perjalanan Cloud
 Menjelaskan lima pilar dari AWS Well-Architected Framework dan enam manfaat dari komputasi cloud.
 
 4
@@ -480,7 +420,7 @@ Knowledge Check : Perjalanan Cloud
 
 
 
-Dasar-Dasar AWS Certified Cloud Practitioner
+12. Dasar-Dasar AWS Certified Cloud Practitioner
 Mengulik sumber daya untuk persiapan ujian AWS Certified Cloud Practitioner sekaligus manfaat menjadi seseorang yang bersertifikat AWS.
 
 3
@@ -504,7 +444,7 @@ Simulasi Ujian AWS Certified Cloud Practitioner
 
 
 
-Penutup
+13. Penutup
 Ujian akhir yang harus ditempuh untuk lulus dari kelas ini.
 
 1
