@@ -27,7 +27,7 @@ Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa 
 ### Silabus
 Materi yang akan Anda pelajari pada kelas ini
 
-1. Persiapan Belajar
+**1. Persiapan Belajar**
 > Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi. `30 menit`
 
 - [ ] Persetujuan Hak Cipta `2 Menit`
@@ -35,9 +35,9 @@ Materi yang akan Anda pelajari pada kelas ini
 - [ ] Forum Diskusi `5 Menit`
 - [ ] Glosarium `10 Menit`
 - [ ] Daftar Referensi `5 Menit`
+<br>
 
-
-2. Pengantar ke Amazon Web Services
+**2. Pengantar ke Amazon Web Services**
 > Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go. `45 menit`
 
 - [ ] Pengantar ke Amazon Web Services `10 Menit`
@@ -48,9 +48,9 @@ Materi yang akan Anda pelajari pada kelas ini
 - [ ] Ikhtisar `5 Menit`
 - [ ] Knowledge Check : Pengantar ke Amazon Web Services
 `10 Menit`
+<br>
 
-
-3. Komputasi di Cloud
+**3. Komputasi di Cloud**
 > Membahas materi komputasi di cloud, seperti Amazon EC2, Elastic Load Balancing, perbedaan Amazon SNS dan Amazon SQS, serta layanan komputasi lain di AWS. `90 menit`
 
 - [ ] Pengantar Komputasi di Cloud `15 Menit`
@@ -62,65 +62,44 @@ Materi yang akan Anda pelajari pada kelas ini
 - [ ] Layanan Komputasi Tambahan `10 Menit`
 - [ ] Ikhtisar `5 Menit`
 - [ ] Knowledge Check : Komputasi di Cloud `10 Menit`
+<br>
 
 4. Infrastruktur Global dan Keandalan
-Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS.
-`45 menit`
-
-Pengantar Infrastruktur Global dan Keandalan
-
-5 Menit
-
-Infrastruktur Global AWS
-
-10 Menit
-
-Edge Locations
-
-5 Menit
-
-Cara Menyediakan Sumber Daya AWS
-
-10 Menit
-
-Ikhtisar
-
-5 Menit
-
-Knowledge Check : Infrastruktur Global dan Keandalan
-
-10 Menit
-
+- [ ] Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS. `45 menit`
+- [ ] Pengantar Infrastruktur Global dan Keandalan `5 Menit`
+- [ ] Infrastruktur Global AWS `10 Menit`
+- [ ] Edge Locations `5 Menit`
+- [ ] Cara Menyediakan Sumber Daya AWS `10 Menit`
+- [ ] Ikhtisar `5 Menit`
+- [ ] Knowledge Check : Infrastruktur Global dan Keandalan `10 Menit`
+<br>
 
 5. Jaringan
-Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS.
-
-5
-1
-75 menit
+> Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS.
+`75 menit`
 Pengantar Jaringan
 
-10 Menit
+`10 Menit`
 
 Konektivitas ke AWS
 
-15 Menit
+`15 Menit`
 
 Subnet dan Network Access Control List
 
-20 Menit
+`20 Menit`
 
 Jaringan Global
 
-15 Menit
+`15 Menit`
 
 Ikhtisar
 
-5 Menit
+`5 Menit`
 
 Knowledge Check : Jaringan
 
-10 Menit
+`10 Menit`
 
 
 
