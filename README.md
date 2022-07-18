@@ -1,9 +1,9 @@
 # Bahan Ajar Menjadi Back End Developer
 
-Disusun oleh: Aditya Harist
-Level: Pemula 
-Estimasi: 45 jam
-Teknologi:Web|Cloud Computing
+### Disusun oleh: Aditya Harist
+### Level: Pemula 
+### Estimasi: 45 jam
+### Teknologi:Web|Cloud Computing
 
 ### Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.
 
@@ -75,22 +75,22 @@ Kelas ini merupakan berisikan langkah-langkah siswa untuk menjadi Back-End Devel
 
 ## Langkah 1
 Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
-13 Jam
-4,79
+- [ ] 13 Jam
+- [ ] 4,79
 Level Dasar
  
 
 ## Langkah 2
 Belajar Dasar Pemrograman JavaScript
-45 Jam
-4,85
+- [ ] 45 Jam
+- [ ] 4,85
 Level Dasar
 
 
 ## Langkah 3
 Belajar Membuat Aplikasi Back-End untuk Pemula
-45 Jam
-4,90
+- [ ] 45 Jam
+- [ ] 4,90
 Level Pemula
 
 
@@ -106,15 +106,15 @@ Visual Studio Code
 Online teaching-paced Learning
 Total jam belajar : 45 jam
 
-⚫ Rekomendasi waktu belajar : 10 jam per minggu
+- Rekomendasi waktu belajar : 10 jam per minggu
 (selesai dalam 32 hari)
 
-⚫ Murid dibimbing secara intensif serta face to face melalui online meeting berapa lama waktu yang akan digunakan untuk belajar materi kelas ini selama masih aktif terdaftar pada kelas
+- Murid dibimbing secara intensif serta face to face melalui online meeting berapa lama waktu yang akan digunakan untuk belajar materi kelas ini selama masih aktif terdaftar pada kelas
 • Fasilitas Pengajaran
 
 • Materi bacaan elektronik: Materi akan disajikan dalam bentuk teks dan bacaan
 
-⚫ Forum diskusi: Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya dan berdiskusi
+- Forum diskusi: Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya dan berdiskusi
 
 • Evaluasi pembelajaran: Submission (Proyek Akhir) Bookshelf API berupa membuat Back-End dari aplikasi catatan yang memiliki fungsi Create, Read, Update, dan Delete.
 
