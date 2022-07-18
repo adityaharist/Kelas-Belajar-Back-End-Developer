@@ -31,79 +31,41 @@ Materi yang akan Anda pelajari pada kelas ini
 > Memahami HAKI, mekanisme belajar, forum diskusi, glosarium, dan daftar referensi. `30 menit`
 
 - [ ] Persetujuan Hak Cipta `2 Menit`
-
 - [ ] Mekanisme Belajar `8 Menit`
-
 - [ ] Forum Diskusi `5 Menit`
-
 - [ ] Glosarium `10 Menit`
-
 - [ ] Daftar Referensi `5 Menit`
 
 
 2. Pengantar ke Amazon Web Services
 > Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go. `45 menit`
+
 - [ ] Pengantar ke Amazon Web Services `10 Menit`
-
-Pengantar `5 Menit`
-
-Komputasi Cloud `5 Menit`
-
-Model Penerapan untuk Komputasi Cloud `5 Menit`
-
-Manfaat dari Komputasi Cloud `5 Menit`
-
-Ikhtisar `5 Menit`
-
-Knowledge Check : Pengantar ke Amazon Web Services
+- [ ] Pengantar `5 Menit`
+- [ ] Komputasi Cloud `5 Menit`
+- [ ] Model Penerapan untuk Komputasi Cloud `5 Menit`
+- [ ] Manfaat dari Komputasi Cloud `5 Menit`
+- [ ] Ikhtisar `5 Menit`
+- [ ] Knowledge Check : Pengantar ke Amazon Web Services
 `10 Menit`
 
 
 3. Komputasi di Cloud
-Membahas materi komputasi di cloud, seperti Amazon EC2, Elastic Load Balancing, perbedaan Amazon SNS dan Amazon SQS, serta layanan komputasi lain di AWS.
+> Membahas materi komputasi di cloud, seperti Amazon EC2, Elastic Load Balancing, perbedaan Amazon SNS dan Amazon SQS, serta layanan komputasi lain di AWS. `90 menit`
 
-8
-1
-90 menit
-Pengantar Komputasi di Cloud
-
-15 Menit
-
-Tipe Instance Amazon EC2
-
-5 Menit
-
-Harga Amazon EC2
-
-5 Menit
-
-Penyesuaian Kapasitas Amazon EC2
-
-15 Menit
-
-Mengarahkan Traffic dengan Elastic Load Balancing
-
-10 Menit
-
-Messaging dan Queueing
-
-15 Menit
-
-Layanan Komputasi Tambahan
-
-10 Menit
-
-Ikhtisar
-
-5 Menit
-
-Knowledge Check : Komputasi di Cloud
-
-10 Menit
+- [ ] Pengantar Komputasi di Cloud `15 Menit`
+- [ ] Tipe Instance Amazon EC2 `5 Menit`
+- [ ] Harga Amazon EC2 `5 Menit`
+- [ ] Penyesuaian Kapasitas Amazon EC2 `15 Menit`
+- [ ] Mengarahkan Traffic dengan Elastic Load Balancing `10 Menit`
+- [ ] Messaging dan Queueing `15 Menit`
+- [ ] Layanan Komputasi Tambahan `10 Menit`
+- [ ] Ikhtisar `5 Menit`
+- [ ] Knowledge Check : Komputasi di Cloud `10 Menit`
 
 4. Infrastruktur Global dan Keandalan
 Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS.
-45 menit
+`45 menit`
 
 Pengantar Infrastruktur Global dan Keandalan
 
