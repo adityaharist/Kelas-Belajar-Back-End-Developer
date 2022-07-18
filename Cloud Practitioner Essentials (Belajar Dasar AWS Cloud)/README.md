@@ -61,7 +61,7 @@ Web Browser (Google Chrome atau Mozilla Firefox)
 - Materi bacaan elektronik: Materi akan disajikan dalam bentuk teks dan bacaan
 - Forum diskusi: Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya dan berdiskusi
 - Evaluasi pembelajaran: Submission (Proyek Akhir) Bookshelf API berupa membuat Back-End dari aplikasi catatan yang memiliki fungsi Create, Read, Update, dan Delete.
--Sertifikat Kompetensi
+- Sertifikat Kompetensi
 <br>
 
 
