@@ -5,34 +5,34 @@ Level: Pemula
 Estimasi: 45 jam
 Teknologi:Web|Cloud Computing
 
-###Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.
+### Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.
 
-###Apa yang akan Anda dapatkan:
+### Apa yang akan Anda dapatkan:
 Sertifikat
 Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
 
-##Code Review
+## Code Review
 Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
 
-##Sertifikat
+## Sertifikat
 Dapatkan sertifikat standar industri setelah menyelesaikan kelas ini.
 
-##Code Review
+## Code Review
 Kode yang Anda kerjakan akan di-review secara komprehensif oleh Reviewer.
 
-##Forum Diskusi
+## Forum Diskusi
 Diskusikan materi belajar dengan mentor dan siswa lainnya
 
-##Modul Tutorial
+## Modul Tutorial
 Materi bacaan elektronik disajikan dengan bahasa yang mudah dipahami.
 
-##Submission
+## Submission
 Uji kemampuan teknis Anda dengan mengerjakan tugas submission.
 
-##Kode Interaktif
+## Kode Interaktif
 Modul belajar dalam bentuk video, disertai dengan latihan untuk menguji pemahaman.
 
-##Deskripsi
+## Deskripsi
 Back-End Developer merupakan developer yang memiliki peran sangat penting, karena Back-End Developer menjadi faktor vital dalam membangun sebuah sistem aplikasi meskipun perannya tidak terlihat secara langsung oleh pengguna. Seorang Back-End Developer harus mampu membangun layanan yang mampu mendukung aplikasi Front-End dapat berfungsi dengan baik. Kelas ini membahas tuntas kemampuan dasar untuk menjadi seorang Back-End Developer dengan membangun RESTful API menggunakan teknologi Node.js yang populer.
 Setiap aplikasi membutuhkan peran Back-End agar dapat berfungsi dengan baik.
 RESTful API merupakan Web Service yang banyak digunakan industri saat ini.
@@ -46,7 +46,7 @@ RESTful API merupakan Web Service yang banyak digunakan industri saat ini.
 Salah satu skill yang perlu dikuasai untuk menjadi Full-Stack Engineer.
 Permintaan tinggi dari perusahan untuk seorang Back-End Developer di Indonesia.
 
-##Target dan Sasaran Siswa
+## Target dan Sasaran Siswa
 Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Back-End Developer dengan standar kompetensi internasional milik AWS.
 Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.
 Kelas ini didesain untuk siswa yang sudah paham dengan bahasa pemrograman JavaScript.
@@ -70,31 +70,31 @@ Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu
 Di akhir kelas, siswa dapat menguasai dasar JavaScript untuk pengembangan aplikasi web menggunakan Node.Js.
  
 
-##Learning Path
+## Learning Path
 Kelas ini merupakan berisikan langkah-langkah siswa untuk menjadi Back-End Developer.
 
-##Langkah 1
+## Langkah 1
 Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
 13 Jam
 4,79
 Level Dasar
  
 
-##Langkah 2
+## Langkah 2
 Belajar Dasar Pemrograman JavaScript
 45 Jam
 4,85
 Level Dasar
 
 
-##Langkah 3
+## Langkah 3
 Belajar Membuat Aplikasi Back-End untuk Pemula
 45 Jam
 4,90
 Level Pemula
 
 
-##Peralatan Belajar
+## Peralatan Belajar
 Spesifikasi minimal perangkat:
 Prosesor
 Intel Celeron (Rekomendasi Core i3 ke atas)
@@ -102,7 +102,7 @@ Tools yang dibutuhkan untuk belajar:
 Visual Studio Code
 
 
-##Metode Ajar
+## Metode Ajar
 Online teaching-paced Learning
 Total jam belajar : 45 jam
 
@@ -121,14 +121,14 @@ Total jam belajar : 45 jam
 • Sertifikat Kompetensi
 
 
-##Testimoni Siswa
+## Testimoni Siswa
 Ribuan siswa sukses belajar di Academy ini. Apa kata mereka? Berikut adalah testimoni asli mereka.
 +
 +
 +
 
-##Punya pertanyaan seputar kelas ini?
+## Punya pertanyaan seputar kelas ini?
 Berikut adalah beberapa pertanyaan yang paling sering ditanyakan.
 
-##Silabus
+## Silabus
 Materi yang akan Anda pelajari pada kelas ini.
