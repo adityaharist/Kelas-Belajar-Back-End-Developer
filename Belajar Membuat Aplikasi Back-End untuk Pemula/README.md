@@ -115,21 +115,6 @@ Materi yang akan Anda pelajari pada kelas ini
 - [ ] Knowledge Check : Infrastruktur Global dan Keandalan `10 Menit`
 <br>
 
-5. Jaringan
-> Mengupas tuntas konsep dasar jaringan, perbedaan sumber daya jaringan publik dan privat, virtual private gateway dan virtual private network, AWS Direct Connect, manfaat penerapan arsitektur hybrid, lapisan keamanan yang digunakan dalam strategi IT, dan layanan untuk berinteraksi dengan jaringan global AWS. `75 menit`
-- [ ]
-Pengantar Jaringan
-`10 Menit`
-- [ ]
-Konektivitas ke AWS
-`15 Menit`
-- [ ]
-Subnet dan Network Access Control List
-`20 Menit`
-- [ ]
-Jaringan Global
-`15 Menit`
-- [ ]
-Ikhtisar
-`5 Menit`
-- [ ]
+5. Penutup
+> Menguji pemahaman siswa dalam implementasi pengetahuan melalui pembuatan RESTful API sederhana menggunakan Node.js.
+- [ ] Submission Bookshelf API `810 Menit`
