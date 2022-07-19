@@ -78,34 +78,40 @@ Materi yang akan Anda pelajari pada kelas ini
 - [ ] Daftar Referensi `5 Menit`
 <br>
 
-**2. Pengantar ke Amazon Web Services**
-> Menjelaskan tentang persiapan sebelum mengikuti kelas, manfaat dari AWS, perbedaan antara penyajian on-demand dan model penerapan cloud, serta model biaya dengan skema pay-as-you-go. `45 menit`
 
-- [ ] Pengantar ke Amazon Web Services `10 Menit`
-- [ ] Pengantar `5 Menit`
-- [ ] Komputasi Cloud `5 Menit`
-- [ ] Model Penerapan untuk Komputasi Cloud `5 Menit`
-- [ ] Manfaat dari Komputasi Cloud `5 Menit`
-- [ ] Ikhtisar `5 Menit`
-- [ ] Knowledge Check : Pengantar ke Amazon Web Services
-`10 Menit`
+**2. Deploy Web Services**
+> Mengenal dan menggunakan Amazon EC2, mengoperasikan Amazon EC2 melalui SSH, menjalankan RESTful API di Amazon EC2. `300 menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
 <br>
 
-**3. Komputasi di Cloud**
-> Membahas materi komputasi di cloud, seperti Amazon EC2, Elastic Load Balancing, perbedaan Amazon SNS dan Amazon SQS, serta layanan komputasi lain di AWS. `90 menit`
 
-- [ ] Pengantar Komputasi di Cloud `15 Menit`
-- [ ] Tipe Instance Amazon EC2 `5 Menit`
-- [ ] Harga Amazon EC2 `5 Menit`
-- [ ] Penyesuaian Kapasitas Amazon EC2 `15 Menit`
-- [ ] Mengarahkan Traffic dengan Elastic Load Balancing `10 Menit`
-- [ ] Messaging dan Queueing `15 Menit`
-- [ ] Layanan Komputasi Tambahan `10 Menit`
-- [ ] Ikhtisar `5 Menit`
-- [ ] Knowledge Check : Komputasi di Cloud `10 Menit`
+**3. Deploy Web Services**
+> Mengenal dan menggunakan Amazon EC2, mengoperasikan Amazon EC2 melalui SSH, menjalankan RESTful API di Amazon EC2. `300 menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
 <br>
 
-4. Infrastruktur Global dan Keandalan
+
+**4. Deploy Web Services**
+> Mengenal dan menggunakan Amazon EC2, mengoperasikan Amazon EC2 melalui SSH, menjalankan RESTful API di Amazon EC2. `300 menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+<br>
+
+
+**5. Deploy Web Services**
+> Mengenal dan menggunakan Amazon EC2, mengoperasikan Amazon EC2 melalui SSH, menjalankan RESTful API di Amazon EC2. `300 menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+<br>
+
+
+**6. Infrastruktur Global dan Keandalan**
 > Mengonsumsi dan Menguji RESTful API menggunakan Postman
 Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan skenario uji otomatis menggunakan Postman.`300 menit`
 - [ ] ` Menit`
@@ -113,6 +119,7 @@ Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan 
 - [ ] ` Menit`
 <br>
 
-5. Penutup
+
+**7. Penutup**
 > Menguji pemahaman siswa dalam implementasi pengetahuan melalui pembuatan RESTful API sederhana menggunakan Node.js.
 - [ ] Submission Bookshelf API `810 Menit`
