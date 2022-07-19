@@ -106,13 +106,11 @@ Materi yang akan Anda pelajari pada kelas ini
 <br>
 
 4. Infrastruktur Global dan Keandalan
-> Menelaah materi terkait infrastruktur global AWS, konsep dasar Availability Zone, manfaat Amazon CloudFront dan Edge locations, serta membandingkan perbedaan metode untuk penyajian layanan AWS. `45 menit`
-- [ ] Pengantar Infrastruktur Global dan Keandalan `5 Menit`
-- [ ] Infrastruktur Global AWS `10 Menit`
-- [ ] Edge Locations `5 Menit`
-- [ ] Cara Menyediakan Sumber Daya AWS `10 Menit`
-- [ ] Ikhtisar `5 Menit`
-- [ ] Knowledge Check : Infrastruktur Global dan Keandalan `10 Menit`
+> Mengonsumsi dan Menguji RESTful API menggunakan Postman
+Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan skenario uji otomatis menggunakan Postman.`300 menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
+- [ ] ` Menit`
 <br>
 
 5. Penutup
