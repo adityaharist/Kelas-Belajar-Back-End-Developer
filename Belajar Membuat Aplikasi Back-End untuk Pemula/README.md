@@ -11,22 +11,20 @@
 
 ### Deskripsi
 
-Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa tahun terakhir. Salah satu platform cloud terdepan dan paling komprehensif adalah Amazon Web Services (AWS). Jutaan pelanggan telah menggunakan AWS, termasuk tiga unicorn asal Indonesia seperti Traveloka, Tokopedia, dan Gojek. Maka dari itu, kuasailah ilmu komputasi cloud agar Anda dapat memenuhi kebutuhan industri yang kian bertumbuh dan mulailah langkah perjalanan cloud Anda dengan mempelajari kelas ini.
-- Pemahaman tentang cloud merupakan skill wajib di era industri saat ini.
-- Seiring perkembangan teknologi yang kian pesat, kebutuhan seorang yang ahli dalam komputasi cloud semakin berperan untuk kemajuan perusahaan.
-- Komputasi cloud tidak memerlukan komputer/laptop berspesifikasi tinggi. Jadi, tak perlu khawatir jika Anda tak memiliki perangkat yang mumpuni.
-- Belajar komputasi cloud tidak memerlukan pengalaman yang cakap dalam bidang IT, siapa pun dapat mempelajarinya.
-- Dengan komputasi cloud, Anda bisa berkenalan dengan berbagai bidang IT, seperti DevOps, Machine Learning, Software Development, dan lain sebagainya.
+Back-End Developer merupakan developer yang memiliki peran sangat penting, karena Back-End Developer menjadi faktor vital dalam membangun sebuah sistem aplikasi meskipun perannya tidak terlihat secara langsung oleh pengguna. Seorang Back-End Developer harus mampu membangun layanan yang mampu mendukung aplikasi Front-End dapat berfungsi dengan baik. Kelas ini membahas tuntas kemampuan dasar untuk menjadi seorang Back-End Developer dengan membangun RESTful API menggunakan teknologi Node.js yang populer.
+- Setiap aplikasi membutuhkan peran Back-End agar dapat berfungsi dengan baik.
+- RESTful API merupakan Web Service yang banyak digunakan industri saat ini.
+- Salah satu skill yang perlu dikuasai untuk menjadi Full-Stack Engineer.
+- Permintaan tinggi dari perusahan untuk seorang Back-End Developer di Indonesia.
 <br>
 
 
 ### Target dan Sasaran Siswa
-
-- Kelas ditujukan bagi pemula yang ingin memulai karirnya di bidang cloud computing dengan mengacu pada standar kompetensi internasional milik AWS. 
+- Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Back-End Developer dengan standar kompetensi internasional milik AWS.
 - Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.
-- Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya. 
+- Kelas ini didesain untuk siswa yang sudah paham dengan bahasa pemrograman JavaScript.
 - Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.
-- Di akhir kelas, siswa dapat memahami AWS Cloud dengan segala jenis layanan, infrastruktur global, hingga harganya.
+- Di akhir kelas, siswa dapat membuat RESTful API sederhana secara mandiri untuk mendukung fungsionalitas suatu aplikasi.
 <br>
 
 ### Peralatan Belajar
@@ -51,8 +49,9 @@ Intel Celeron (Rekomendasi Core i3 ke atas)
 
 Tools
 > Kelas ini membutuhkan beberapa tools berikut:
-- [x]
-Web Browser (Google Chrome atau Mozilla Firefox)
+- [x] Text Editor (VSCode, Atom, Emacs)
+- [x] Web Browser (Google Chrome atau Mozilla Firefox)
+- [x] Command Line (Terminal atau CMD)
 <br>
 
 ### Metode Ajar
